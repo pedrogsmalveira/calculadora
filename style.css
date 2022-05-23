@@ -6,7 +6,13 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background:rgb(255, 255, 255)
+  background:rgb(255, 255, 255);
+  margin: 0;
+}
+
+.pai{
+  background: #000;
+  height: 180px;
 }
 
 input{
@@ -48,7 +54,7 @@ input{
 }
 
 .main{
-  display: inline-block;
+  display: grid;
 }
 
 .blue{
