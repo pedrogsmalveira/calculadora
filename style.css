@@ -6,7 +6,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background:rgb(255, 255, 255);
+  background: orangered;
   margin: 0;
 }
 
@@ -22,7 +22,8 @@ input{
 }
 
 .maincolor{
-  background-color: #000;
+  background-color: rgb(0, 0, 0);
+  border: solid #8c8c8c;
 }
 
 .num{
@@ -56,21 +57,26 @@ input{
 }
 
 .blue{
-  background-color:#0cd0cd;
+  color: #000;
+  background-color:#f5f5f5;
 }
 
 .pin{
-  background-color:#cf1596;
+  color: #000;
+  background-color:#ffffff;
 }
 
 .gre{
-  background-color:#aad800;
+  color: #000;
+  background-color:#ffffff;
 }
 
 .pur{
-  background-color:#8c52f0
+  color: #000;
+  background-color:#ffffff
 }
 
 .ora{
-  background-color:#fcb707;
+  color: #000;
+  background-color:#ffffff;
 }
