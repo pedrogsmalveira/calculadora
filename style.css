@@ -28,6 +28,7 @@ input{
 .num{
   width: 64px;
   height: 67px;
+  margin-top: 6px;
 }
 
 .text{
